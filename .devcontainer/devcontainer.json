@@ -11,7 +11,8 @@
     "forwardPorts": [3000]'
     "portsAttributes": {
         "3000": {
-            "label": "React App"
+            "label": "React App",
+            "onAutoForward": "openPreview"
         }
     }
 }
