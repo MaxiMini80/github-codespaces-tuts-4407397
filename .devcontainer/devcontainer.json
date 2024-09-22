@@ -18,7 +18,7 @@
         }
     },
 
-    " customizations": {
+    "customizations": {
         "vscode": {
             "extensions": ["esbenp.prettier-vscode"],
             "settings": {
